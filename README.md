@@ -1,5 +1,9 @@
 # Poem
 
+two plus one is four
+four plus one is six
+False Maths!
+
 Roses are Red,
 Violets are Blue.
 I like to play zork,
